@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#224560" />
+      <stop offset="55%" stop-color="#537da1" />
+      <stop offset="100%" stop-color="#c8dff2" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)" />
+  <path d="M0 468C138 414 292 390 426 416s211 57 312 46 158-44 222-74v212H0Z" fill="rgba(255,255,255,0.1)" />
+  <rect x="88" y="88" width="784" height="424" rx="36" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.28)" />
+  <text x="118" y="188" fill="#dcefff" font-size="40" font-family="Trebuchet MS, sans-serif" letter-spacing="8">FILM / ANIME / MANGA</text>
+  <text x="118" y="300" fill="#ffffff" font-size="90" font-family="Georgia, serif" font-weight="700">Demo Card</text>
+  <text x="118" y="382" fill="#e8f5ff" font-size="32" font-family="Trebuchet MS, sans-serif">Public showcase asset with no external downloads.</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-collection-showcase",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A sanitized public showcase of a dialogue-built collection site wired into OpenClaw.",
+  "scripts": {
+    "start": "node --experimental-sqlite server.js",
+    "dev": "node --watch --experimental-sqlite server.js",
+    "collection:reset": "node --experimental-sqlite scripts/collection-cli.js reset",
+    "collection:sync": "node --experimental-sqlite scripts/collection-cli.js sync",
+    "collection:sort": "node --experimental-sqlite scripts/collection-cli.js sort",
+    "collection:list": "node --experimental-sqlite scripts/collection-cli.js list",
+    "collection:add": "node --experimental-sqlite scripts/collection-cli.js add",
+    "collection:update": "node --experimental-sqlite scripts/collection-cli.js update",
+    "collection:gallery:add": "node --experimental-sqlite scripts/collection-cli.js gallery:add",
+    "collection:delete": "node --experimental-sqlite scripts/collection-cli.js delete"
+  }
+}

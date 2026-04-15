@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#eaf7ff" />
+  <circle cx="1040" cy="138" r="78" fill="#fff9d9" />
+  <path d="M0 490c164-84 296-122 432-122 152 0 226 62 392 62 112 0 246-30 456-122v412H0Z" fill="#95d0a0" />
+  <path d="M0 556c240-62 392-88 530-88 162 0 262 36 386 36 112 0 240-22 364-46v262H0Z" fill="#6aa679" />
+  <text x="84" y="126" fill="#386749" font-size="50" font-family="Trebuchet MS, sans-serif">SLOW DAYS</text>
+  <text x="84" y="214" fill="#ffffff" font-size="86" font-family="Georgia, serif">Lake Breeze</text>
+</svg>

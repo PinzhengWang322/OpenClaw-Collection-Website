@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8ecff" />
+      <stop offset="55%" stop-color="#6f9fcb" />
+      <stop offset="100%" stop-color="#24466c" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)" />
+  <g fill="rgba(255,255,255,0.15)">
+    <circle cx="180" cy="150" r="76" />
+    <circle cx="760" cy="430" r="118" />
+    <rect x="358" y="122" width="220" height="220" rx="44" />
+  </g>
+  <rect x="84" y="84" width="792" height="432" rx="38" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.26)" />
+  <text x="114" y="186" fill="#edf7ff" font-size="42" font-family="Trebuchet MS, sans-serif" letter-spacing="8">GAME ARCHIVE</text>
+  <text x="114" y="302" fill="#ffffff" font-size="92" font-family="Georgia, serif" font-weight="700">Play Log</text>
+  <text x="114" y="388" fill="#edf7ff" font-size="32" font-family="Trebuchet MS, sans-serif">Generic artwork for public demo game cards.</text>
+</svg>

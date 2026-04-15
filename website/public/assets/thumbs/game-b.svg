@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14293f" />
+      <stop offset="50%" stop-color="#315c88" />
+      <stop offset="100%" stop-color="#b8d7f6" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)" />
+  <g stroke="rgba(255,255,255,0.16)" stroke-width="6" fill="none">
+    <path d="M120 470c80-96 174-144 280-144s196 36 316 110" />
+    <path d="M136 196c82 34 170 50 254 50 108 0 222-28 346-94" />
+  </g>
+  <rect x="84" y="84" width="792" height="432" rx="38" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.24)" />
+  <text x="118" y="186" fill="#dcefff" font-size="42" font-family="Trebuchet MS, sans-serif" letter-spacing="8">SYSTEMS / LOOPS / DISCOVERY</text>
+  <text x="118" y="302" fill="#ffffff" font-size="88" font-family="Georgia, serif" font-weight="700">Game Demo</text>
+  <text x="118" y="388" fill="#edf7ff" font-size="32" font-family="Trebuchet MS, sans-serif">SVG cover kept inside the repo for portable screenshots.</text>
+</svg>

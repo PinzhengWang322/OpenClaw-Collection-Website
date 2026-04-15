@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dff6ff" />
+      <stop offset="55%" stop-color="#8ecfe7" />
+      <stop offset="100%" stop-color="#79b789" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#sky)" />
+  <path d="M0 400c74-58 132-86 210-86 92 0 138 52 230 52 84 0 130-56 220-56 80 0 152 34 300 122v168H0Z" fill="#5b8e68" />
+  <path d="M0 458c138-52 232-74 314-74 116 0 188 44 290 44 92 0 162-26 356-86v258H0Z" fill="#3f6c52" />
+  <circle cx="752" cy="132" r="64" fill="rgba(255,255,255,0.56)" />
+  <text x="104" y="190" fill="#244b35" font-size="42" font-family="Trebuchet MS, sans-serif" letter-spacing="8">TRAVEL NOTES</text>
+  <text x="104" y="300" fill="#ffffff" font-size="96" font-family="Georgia, serif" font-weight="700">Yunnan</text>
+  <text x="104" y="386" fill="#effff3" font-size="34" font-family="Trebuchet MS, sans-serif">The only real-world category kept in the public demo.</text>
+</svg>

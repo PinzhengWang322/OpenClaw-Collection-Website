@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#dff5ff" />
+  <path d="M0 470c168-104 304-150 450-150 148 0 236 60 374 60 144 0 242-54 456-160v500H0Z" fill="#7fc58f" />
+  <path d="M0 538c240-92 378-126 534-126 178 0 260 66 424 66 130 0 244-34 322-64v306H0Z" fill="#4d8d67" />
+  <text x="92" y="132" fill="#2b5e42" font-size="54" font-family="Trebuchet MS, sans-serif">YUNNAN TRAVEL</text>
+  <text x="92" y="224" fill="#ffffff" font-size="88" font-family="Georgia, serif">Mountain Light</text>
+</svg>

@@ -1,0 +1,689 @@
+{
+  "title": "openclaw-collection-showcase",
+  "subtitle": "Collection Demo",
+  "updatedAt": "2026-04-06T14:22:47.018Z",
+  "categories": [
+    {
+      "id": "movies",
+      "title": "影视",
+      "englishTitle": "Media Shelf",
+      "summary": "动画、漫画、电影。",
+      "accent": "#a44a3f",
+      "pageSize": 12,
+      "sortOrder": 1,
+      "timeFieldLabel": "观看时间",
+      "fieldLabels": [
+        "类型",
+        "观看时间",
+        "产地",
+        "主题"
+      ],
+      "items": [
+        {
+          "id": "movies-2602-demo",
+          "categoryId": "movies",
+          "order": 1,
+          "timeValue": "26.02",
+          "sortKey": 2602,
+          "title": "白色圣诞节",
+          "subtitle": "White Christmas",
+          "teaser": "冷感、悬念和圣诞氛围叠在一起的一集短篇。",
+          "cover": "/assets/thumbs/media-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "短剧 / 科幻 / 特别篇"
+            },
+            {
+              "label": "观看时间",
+              "value": "26.02"
+            },
+            {
+              "label": "产地",
+              "value": "英国"
+            },
+            {
+              "label": "主题",
+              "value": "数字意识，惩罚，节日反差"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：用来演示影视条目的信息结构、排序和详情弹层。",
+            "review": "适合作为卡片站里那种一眼就能记住气质的条目。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2601-demo",
+          "categoryId": "movies",
+          "order": 2,
+          "timeValue": "26.01",
+          "sortKey": 2601,
+          "title": "彻夜之歌漫画",
+          "subtitle": "Call of the Night",
+          "teaser": "夜色、少年感和一点点危险的浪漫感。",
+          "cover": "/assets/thumbs/media-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "漫画"
+            },
+            {
+              "label": "观看时间",
+              "value": "26.01"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "夜游，青春，吸血鬼"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：保留真实作品名，但不带个人聊天上下文和私人备注。",
+            "review": "更偏氛围收藏，而不是剧情摘要。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2512-demo",
+          "categoryId": "movies",
+          "order": 3,
+          "timeValue": "25.12",
+          "sortKey": 2512,
+          "title": "迷宫饭漫画",
+          "subtitle": "Delicious in Dungeon",
+          "teaser": "奇幻、美食和地下城日常组合出来的独特节奏。",
+          "cover": "/assets/thumbs/media-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "漫画"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.12"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "奇幻冒险，美食，地下城"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：演示普通文字字段和默认排序。",
+            "review": "很适合放在卡片站里做高识别度封面示例。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2511-a",
+          "categoryId": "movies",
+          "order": 4,
+          "timeValue": "25.11",
+          "sortKey": 2511,
+          "title": "无职转生",
+          "subtitle": "Mushoku Tensei",
+          "teaser": "异世界成长系作品的代表性条目之一。",
+          "cover": "/assets/thumbs/media-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "动画"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.11"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "异世界，成长，冒险"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：用于展示同月份条目的并列排序。",
+            "review": "这类条目很适合测试主题和类型字段的展示密度。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2511-b",
+          "categoryId": "movies",
+          "order": 5,
+          "timeValue": "25.11",
+          "sortKey": 2511,
+          "title": "惊天魔盗团 3",
+          "subtitle": "Now You See Me 3",
+          "teaser": "魔术骗局、团队行动和舞台式反转。",
+          "cover": "/assets/thumbs/media-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "犯罪 / 魔术 / 悬疑"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.11"
+            },
+            {
+              "label": "产地",
+              "value": "美国"
+            },
+            {
+              "label": "主题",
+              "value": "骗局，团队，反转"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：保留作品信息，但移除了所有私人聊天记录和抓图来源。",
+            "review": "适合拿来测试长一点的类型字段。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2511-c",
+          "categoryId": "movies",
+          "order": 6,
+          "timeValue": "25.11",
+          "sortKey": 2511,
+          "title": "鬼灭之刃 剧场版",
+          "subtitle": "Demon Slayer Movie",
+          "teaser": "热血战斗、少年成长和更集中的情绪爆发。",
+          "cover": "/assets/thumbs/media-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "剧场版动画"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.11"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "战斗，成长，斩鬼"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：演示同一分类内的多条连续数据。",
+            "review": "可以直观看到卡片缩略图和信息区的比例。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2510-demo",
+          "categoryId": "movies",
+          "order": 7,
+          "timeValue": "25.10",
+          "sortKey": 2510,
+          "title": "游戏人生",
+          "subtitle": "No Game No Life",
+          "teaser": "异世界、智斗和高饱和视觉风格。",
+          "cover": "/assets/thumbs/media-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "动画"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.10"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "异世界，智斗，规则世界"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：也适合拿来演示 Discord 里新增条目的效果。",
+            "review": "标题和副标题的中英混排能看出卡片排版是否舒服。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "movies-2509-demo",
+          "categoryId": "movies",
+          "order": 8,
+          "timeValue": "25.09",
+          "sortKey": 2509,
+          "title": "Begin Again",
+          "subtitle": "Can a Song Save Your Life?",
+          "teaser": "音乐、纽约、重启人生感的一张演示卡片。",
+          "cover": "/assets/thumbs/media-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "音乐 / 剧情 / 电影"
+            },
+            {
+              "label": "观看时间",
+              "value": "25.09"
+            },
+            {
+              "label": "产地",
+              "value": "美国"
+            },
+            {
+              "label": "主题",
+              "value": "音乐，纽约，重新开始"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：README 里的机器人增删改查案例会用到这张卡。",
+            "review": "很适合演示修改时间后自动重排。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "游戏",
+      "englishTitle": "Game Archive",
+      "summary": "系统、探索、合作与反复开档。",
+      "accent": "#355f8a",
+      "pageSize": 12,
+      "sortOrder": 2,
+      "timeFieldLabel": "游玩时间",
+      "fieldLabels": [
+        "类型",
+        "游玩时间",
+        "产地",
+        "主题"
+      ],
+      "items": [
+        {
+          "id": "games-2602-demo",
+          "categoryId": "games",
+          "order": 1,
+          "timeValue": "26.02",
+          "sortKey": 2602,
+          "title": "三位一体 5",
+          "subtitle": "Trine 5",
+          "teaser": "童话感美术和合作解谜做在一起的那种舒服。",
+          "cover": "/assets/thumbs/game-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "横版解谜冒险"
+            },
+            {
+              "label": "游玩时间",
+              "value": "26.02"
+            },
+            {
+              "label": "产地",
+              "value": "芬兰"
+            },
+            {
+              "label": "主题",
+              "value": "童话，合作，机关解谜"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：展示游戏分类与影视分类共享同一套 CRUD 机制。",
+            "review": "也适合演示不同分类之间的字段一致性。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2601-demo",
+          "categoryId": "games",
+          "order": 2,
+          "timeValue": "26.01",
+          "sortKey": 2601,
+          "title": "幻兽帕鲁",
+          "subtitle": "Palworld",
+          "teaser": "抓宠、建造和多人协作都很适合做演示。",
+          "cover": "/assets/thumbs/game-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "生存 / 开放世界 / 抓宠"
+            },
+            {
+              "label": "游玩时间",
+              "value": "26.01"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "生存建造，联机，帕鲁"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：适合测试更长的类型字段和主题字段。",
+            "review": "一张内容密度比较高的卡。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2512-a",
+          "categoryId": "games",
+          "order": 3,
+          "timeValue": "25.12",
+          "sortKey": 2512,
+          "title": "Outer Wilds",
+          "subtitle": "Outer Wilds",
+          "teaser": "探索和时间循环的代表性示例条目。",
+          "cover": "/assets/thumbs/game-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "开放探索 / 解谜 / 冒险"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.12"
+            },
+            {
+              "label": "产地",
+              "value": "美国"
+            },
+            {
+              "label": "主题",
+              "value": "宇宙探索，时间循环，考古"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：演示同月份多条数据的排序和分页。",
+            "review": "很适合用来解释“主题”字段能装什么内容。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2512-b",
+          "categoryId": "games",
+          "order": 4,
+          "timeValue": "25.12",
+          "sortKey": 2512,
+          "title": "迷宫饭桌游",
+          "subtitle": "Dungeon Meshi Board Game",
+          "teaser": "合作、美食和迷宫主题很适合放在游戏栏里。",
+          "cover": "/assets/thumbs/game-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "桌游"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.12"
+            },
+            {
+              "label": "产地",
+              "value": "日本"
+            },
+            {
+              "label": "主题",
+              "value": "合作，迷宫，美食"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：说明站点并不限制电子游戏，桌游也可以收进来。",
+            "review": "对玩法类型的边界很友好。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2512-c",
+          "categoryId": "games",
+          "order": 5,
+          "timeValue": "25.12",
+          "sortKey": 2512,
+          "title": "璀璨宝石 宝可梦",
+          "subtitle": "Pokemon Brilliant Diamond",
+          "teaser": "卡牌、宝可梦主题和轻对战都很好展示。",
+          "cover": "/assets/thumbs/game-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "德式桌游"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.12"
+            },
+            {
+              "label": "产地",
+              "value": "美国"
+            },
+            {
+              "label": "主题",
+              "value": "宝可梦，卡牌，对战，桌游"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：保留原始分类修正后的类型信息。",
+            "review": "也能拿来演示 Discord 里改字段的流程。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2512-d",
+          "categoryId": "games",
+          "order": 6,
+          "timeValue": "25.12",
+          "sortKey": 2512,
+          "title": "黑白棋",
+          "subtitle": "Reversi / Othello",
+          "teaser": "短规则、高重复游玩性，适合作为轻量卡片。",
+          "cover": "/assets/thumbs/game-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "棋类 / 桌游"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.12"
+            },
+            {
+              "label": "产地",
+              "value": "英国 / 日本"
+            },
+            {
+              "label": "主题",
+              "value": "抽象策略，对弈，翻子"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：一张信息非常简洁的游戏卡。",
+            "review": "适合拿来测试极短标题和极短摘要。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2511-demo",
+          "categoryId": "games",
+          "order": 7,
+          "timeValue": "25.11",
+          "sortKey": 2511,
+          "title": "王国：两位君主",
+          "subtitle": "Kingdom Two Crowns",
+          "teaser": "王国建设、生存和合作的节奏很鲜明。",
+          "cover": "/assets/thumbs/game-a.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "横版策略生存"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.11"
+            },
+            {
+              "label": "产地",
+              "value": "瑞典"
+            },
+            {
+              "label": "主题",
+              "value": "王国建设，生存，合作"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：在 README 的流程说明里会作为“反复开档”的代表例子。",
+            "review": "很适合这种蓝色收藏册风格。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "games-2509-demo",
+          "categoryId": "games",
+          "order": 8,
+          "timeValue": "25.09",
+          "sortKey": 2509,
+          "title": "泰拉瑞亚灾厄",
+          "subtitle": "Terraria Calamity Mod",
+          "teaser": "像素、生存和大型模组很适合演示“追加图片”。",
+          "cover": "/assets/thumbs/game-b.svg",
+          "cardInfo": [
+            {
+              "label": "类型",
+              "value": "沙盒生存 / 大型模组"
+            },
+            {
+              "label": "游玩时间",
+              "value": "25.09"
+            },
+            {
+              "label": "产地",
+              "value": "海外社区"
+            },
+            {
+              "label": "主题",
+              "value": "像素冒险，高强度 Boss，成长树"
+            }
+          ],
+          "detail": {
+            "intro": "公开版示例卡片：README 里的 Discord 换封面、追加详情图案例会以这张卡为蓝本说明。",
+            "review": "非常适合讲清楚“封面”和“详情图”是两个不同层次的资源。",
+            "gallery": []
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "title": "旅游",
+      "englishTitle": "Travel Notes",
+      "summary": "公开版只保留一张云南旅行卡片。",
+      "accent": "#4f7b57",
+      "pageSize": 12,
+      "sortOrder": 3,
+      "timeFieldLabel": "时间",
+      "fieldLabels": [
+        "事件",
+        "城市",
+        "时间",
+        "印象"
+      ],
+      "items": [
+        {
+          "id": "places-2508-demo",
+          "categoryId": "places",
+          "order": 1,
+          "timeValue": "25.08",
+          "sortKey": 2508,
+          "title": "云南旅行",
+          "subtitle": "Yunnan Trip",
+          "teaser": "把私人旅行分类脱敏后，只保留一张公开演示卡。",
+          "cover": "/assets/thumbs/travel-yunnan.svg",
+          "cardInfo": [
+            {
+              "label": "事件",
+              "value": "旅行"
+            },
+            {
+              "label": "城市",
+              "value": "云南"
+            },
+            {
+              "label": "时间",
+              "value": "25.08"
+            },
+            {
+              "label": "印象",
+              "value": "山景，慢节奏，晴空"
+            }
+          ],
+          "detail": {
+            "intro": "这是公开版里唯一保留的旅游类条目，用来说明如何把私人站点里的现实生活内容裁剪成可公开的演示数据。",
+            "review": "第三栏不再出现生日、演唱会或私人事件，只保留一张纯旅行示例。",
+            "gallery": [
+              {
+                "src": "/assets/gallery/travel-yunnan-1.svg",
+                "caption": "云南旅行 · 第 1 张图",
+                "alt": "云南旅行 详情图 1"
+              },
+              {
+                "src": "/assets/gallery/travel-yunnan-2.svg",
+                "caption": "云南旅行 · 第 2 张图",
+                "alt": "云南旅行 详情图 2"
+              },
+              {
+                "src": "/assets/gallery/travel-yunnan-3.svg",
+                "caption": "云南旅行 · 第 3 张图",
+                "alt": "云南旅行 详情图 3"
+              }
+            ]
+          },
+          "createdAt": "2026-04-06T00:00:00.000Z",
+          "updatedAt": "2026-04-06T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

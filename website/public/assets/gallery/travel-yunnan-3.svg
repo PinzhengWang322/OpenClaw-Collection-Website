@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#d9f0ff" />
+  <path d="M0 508c136-62 266-96 404-96 168 0 262 58 422 58 134 0 248-38 454-128v378H0Z" fill="#89c9ae" />
+  <path d="M0 586c236-54 416-74 588-74 158 0 300 18 692 90v118H0Z" fill="#457762" />
+  <text x="84" y="126" fill="#28584c" font-size="50" font-family="Trebuchet MS, sans-serif">PUBLIC DEMO GALLERY</text>
+  <text x="84" y="214" fill="#ffffff" font-size="84" font-family="Georgia, serif">Clear Sky</text>
+</svg>
